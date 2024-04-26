@@ -1,3 +1,4 @@
 Paso1:Recopilación de datos
 Paso2:Preprocesamiento
 Paso5:Recopilacion de informes
+Paso6:Recopilacion de las conclusiones
