@@ -1,2 +1,3 @@
 Paso1:Recopilación de datos
 Paso2:Preprocesamiento
+Paso5:Recopilacion de informes
